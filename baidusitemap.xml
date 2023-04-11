@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:4000/2023/04/09/test1/</loc>
+    <lastmod>2023-04-11</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/2023/04/07/hello-world/</loc>
+    <lastmod>2023-04-10</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/2023/04/09/test2/</loc>
+    <lastmod>2023-04-09</lastmod>
+  </url>
+</urlset> 
